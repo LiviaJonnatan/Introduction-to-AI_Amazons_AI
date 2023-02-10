@@ -1,1 +1,1 @@
-# COSC322-Amazons-AI
+# Introduction to Artificial Intelligence-Amazons-AI
